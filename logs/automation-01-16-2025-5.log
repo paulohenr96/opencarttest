@@ -1,0 +1,49 @@
+2025-01-16 08:24:17 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-16 08:24:18 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-16 08:24:26 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****
+2025-01-16 08:24:46 INFO  TC002_LoginTest:47 - ***** EXCEPTION TC002_LoginTest *****
+2025-01-16 08:24:46 DEBUG TC002_LoginTest:48 - no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='My Account']"}
+  (Session info: chrome=131.0.6778.204)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [9c9cd49e9db8b9453e03d88b01aacf22, findElement {using=xpath, value=//span[normalize-space()='My Account']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.204, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:44215}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.19.0.4:4444/sessio..., se:cdpVersion: 131.0.6778.204, se:containerName: , se:noVncPort: 7900, se:vnc: ws://172.19.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c9cd49e9db8b9453e03d88b01aacf22
+2025-01-16 08:25:12 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-16 08:25:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-16 08:25:20 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****
+2025-01-16 08:25:21 INFO  TC002_LoginTest:25 - Clicked on myaccount link
+2025-01-16 08:25:42 INFO  TC002_LoginTest:47 - ***** EXCEPTION TC002_LoginTest *****
+2025-01-16 08:25:42 DEBUG TC002_LoginTest:48 - no such element: Unable to locate element: {"method":"link text","selector":"Login"}
+  (Session info: chrome=131.0.6778.204)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [3c0d082bf4dab1eaf458bc6e2e7f3a6a, findElement {using=link text, value=Login}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.204, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:32965}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.19.0.4:4444/sessio..., se:cdpVersion: 131.0.6778.204, se:containerName: , se:noVncPort: 7900, se:vnc: ws://172.19.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3c0d082bf4dab1eaf458bc6e2e7f3a6a
+2025-01-16 08:29:34 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-16 08:29:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-16 08:30:01 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****
+2025-01-16 08:30:02 INFO  TC002_LoginTest:25 - Clicked on myaccount link
+2025-01-16 08:30:04 INFO  TC002_LoginTest:27 - Clicked on login link
+2025-01-16 08:30:04 INFO  TC002_LoginTest:32 - Providing customer details
+2025-01-16 08:30:25 INFO  TC002_LoginTest:47 - ***** EXCEPTION TC002_LoginTest *****
+2025-01-16 08:30:25 DEBUG TC002_LoginTest:48 - no such element: Unable to locate element: {"method":"xpath","selector":"//button[normalize-space()='Login']"}
+  (Session info: chrome=131.0.6778.204)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [5b4c06fe072b42a34357eebf0f161a9f, findElement {value=//button[normalize-space()='Login'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.204, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:45465}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://172.19.0.4:4444/sessio..., se:cdpVersion: 131.0.6778.204, se:containerName: , se:noVncPort: 7900, se:vnc: ws://172.19.0.4:4444/sessio..., se:vncEnabled: true, se:vncLocalAddress: ws://172.19.0.4:7900, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5b4c06fe072b42a34357eebf0f161a9f

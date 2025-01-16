@@ -1,0 +1,5 @@
+2025-01-15 23:55:11 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-15 23:55:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 23:55:19 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****

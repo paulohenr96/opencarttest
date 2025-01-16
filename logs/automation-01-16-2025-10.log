@@ -1,0 +1,49 @@
+2025-01-16 15:00:26 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\testng.xml"
+2025-01-16 15:00:45 INFO  TC001_AccountRegistrationTest:20 - ***** Starting TC001_AccountRegistrationTest *****
+2025-01-16 15:00:48 INFO  TC001_AccountRegistrationTest:24 - Clicked on myaccount link
+2025-01-16 15:00:58 ERROR TC001_AccountRegistrationTest:55 - Test failed...
+2025-01-16 15:00:58 DEBUG TC001_AccountRegistrationTest:56 - Debug logs
+2025-01-16 15:01:17 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****
+2025-01-16 15:01:20 INFO  TC002_LoginTest:25 - Clicked on myaccount link
+2025-01-16 15:01:30 INFO  TC002_LoginTest:47 - ***** EXCEPTION TC002_LoginTest *****
+2025-01-16 15:01:30 DEBUG TC002_LoginTest:48 - no such element: Unable to locate element: {"method":"link text","selector":"Login"}
+  (Session info: chrome=131.0.6778.265)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9cd01729aa0f4748a17e7a018ac2d176, findElement {value=Login, using=link text}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.265, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\paulo\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59064}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59064/devtoo..., se:cdpVersion: 131.0.6778.265, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9cd01729aa0f4748a17e7a018ac2d176
+2025-01-16 15:03:51 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\testng.xml"
+2025-01-16 15:04:03 INFO  TC001_AccountRegistrationTest:20 - ***** Starting TC001_AccountRegistrationTest *****
+2025-01-16 15:04:03 INFO  TC001_AccountRegistrationTest:24 - Clicked on myaccount link
+2025-01-16 15:04:06 INFO  TC001_AccountRegistrationTest:26 - Clicked on register link
+2025-01-16 15:04:06 INFO  TC001_AccountRegistrationTest:32 - Providing customer details
+2025-01-16 15:04:11 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-01-16 15:04:19 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****
+2025-01-16 15:04:20 INFO  TC002_LoginTest:25 - Clicked on myaccount link
+2025-01-16 15:04:22 INFO  TC002_LoginTest:27 - Clicked on login link
+2025-01-16 15:04:22 INFO  TC002_LoginTest:32 - Providing customer details
+2025-01-16 15:04:24 INFO  TC002_LoginTest:54 - ***** Finished TC002_LoginTest *****
+2025-01-16 15:29:32 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\testng.xml"
+2025-01-16 15:29:47 INFO  TC001_AccountRegistrationTest:20 - ***** Starting TC001_AccountRegistrationTest *****
+2025-01-16 15:29:47 INFO  TC001_AccountRegistrationTest:24 - Clicked on myaccount link
+2025-01-16 15:29:49 INFO  TC001_AccountRegistrationTest:26 - Clicked on register link
+2025-01-16 15:29:49 INFO  TC001_AccountRegistrationTest:32 - Providing customer details
+2025-01-16 15:29:52 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-01-16 15:30:04 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****
+2025-01-16 15:30:05 INFO  TC002_LoginTest:25 - Clicked on myaccount link
+2025-01-16 15:30:06 INFO  TC002_LoginTest:27 - Clicked on login link
+2025-01-16 15:30:06 INFO  TC002_LoginTest:32 - Providing customer details
+2025-01-16 15:30:09 INFO  TC002_LoginTest:54 - ***** Finished TC002_LoginTest *****
+2025-01-16 15:36:04 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\testng.xml"
+2025-01-16 15:36:18 INFO  TC001_AccountRegistrationTest:20 - ***** Starting TC001_AccountRegistrationTest *****
+2025-01-16 15:36:19 INFO  TC001_AccountRegistrationTest:24 - Clicked on myaccount link
+2025-01-16 15:36:20 INFO  TC001_AccountRegistrationTest:26 - Clicked on register link
+2025-01-16 15:36:20 INFO  TC001_AccountRegistrationTest:32 - Providing customer details
+2025-01-16 15:36:23 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-01-16 15:36:34 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****
+2025-01-16 15:36:34 INFO  TC002_LoginTest:25 - Clicked on myaccount link
+2025-01-16 15:36:36 INFO  TC002_LoginTest:27 - Clicked on login link
+2025-01-16 15:36:36 INFO  TC002_LoginTest:32 - Providing customer details

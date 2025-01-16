@@ -1,0 +1,60 @@
+2025-01-15 11:29:48 INFO  TC001_AccountRegistrationTest:20 - ***** Starting TC001_AccountRegistrationTest *****
+2025-01-15 11:29:48 INFO  TC001_AccountRegistrationTest:24 - Clicked on myaccount link
+2025-01-15 11:29:52 INFO  TC001_AccountRegistrationTest:26 - Clicked on register link
+2025-01-15 11:29:52 INFO  TC001_AccountRegistrationTest:32 - Providing customer details
+2025-01-15 11:29:57 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-01-15 11:30:08 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****
+2025-01-15 11:30:09 INFO  TC002_LoginTest:25 - Clicked on myaccount link
+2025-01-15 11:30:10 INFO  TC002_LoginTest:27 - Clicked on login link
+2025-01-15 11:30:10 INFO  TC002_LoginTest:32 - Providing customer details
+2025-01-15 11:30:12 INFO  TC002_LoginTest:52 - ***** Finished TC002_LoginTest *****
+2025-01-15 14:27:49 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grouping.xml"
+2025-01-15 14:27:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grouping.xml
+
+2025-01-15 14:28:04 INFO  TC001_AccountRegistrationTest:20 - ***** Starting TC001_AccountRegistrationTest *****
+2025-01-15 14:28:04 INFO  TC001_AccountRegistrationTest:24 - Clicked on myaccount link
+2025-01-15 14:28:06 INFO  TC001_AccountRegistrationTest:26 - Clicked on register link
+2025-01-15 14:28:06 INFO  TC001_AccountRegistrationTest:32 - Providing customer details
+2025-01-15 14:28:08 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-01-15 14:28:19 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****
+2025-01-15 14:28:19 INFO  TC002_LoginTest:25 - Clicked on myaccount link
+2025-01-15 14:28:21 INFO  TC002_LoginTest:27 - Clicked on login link
+2025-01-15 14:28:21 INFO  TC002_LoginTest:32 - Providing customer details
+2025-01-15 14:28:23 INFO  TC002_LoginTest:52 - ***** Finished TC002_LoginTest *****
+2025-01-15 14:34:18 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grouping.xml"
+2025-01-15 14:34:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grouping.xml
+
+2025-01-15 14:34:31 INFO  TC001_AccountRegistrationTest:20 - ***** Starting TC001_AccountRegistrationTest *****
+2025-01-15 14:34:32 INFO  TC001_AccountRegistrationTest:24 - Clicked on myaccount link
+2025-01-15 14:34:33 INFO  TC001_AccountRegistrationTest:26 - Clicked on register link
+2025-01-15 14:34:33 INFO  TC001_AccountRegistrationTest:32 - Providing customer details
+2025-01-15 14:34:35 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-01-15 14:34:44 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****
+2025-01-15 14:34:44 INFO  TC002_LoginTest:25 - Clicked on myaccount link
+2025-01-15 14:34:45 INFO  TC002_LoginTest:27 - Clicked on login link
+2025-01-15 14:34:45 INFO  TC002_LoginTest:32 - Providing customer details
+2025-01-15 14:36:44 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\test-output\testng-failed.xml"
+2025-01-15 14:36:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\test-output\testng-failed.xml
+
+2025-01-15 14:36:57 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****
+2025-01-15 14:36:58 INFO  TC002_LoginTest:25 - Clicked on myaccount link
+2025-01-15 14:36:59 INFO  TC002_LoginTest:27 - Clicked on login link
+2025-01-15 14:36:59 INFO  TC002_LoginTest:32 - Providing customer details
+2025-01-15 14:37:01 INFO  TC002_LoginTest:52 - ***** Finished TC002_LoginTest *****
+2025-01-15 16:01:31 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\testng.xml"
+2025-01-15 16:01:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\testng.xml
+
+2025-01-15 16:02:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-15 16:02:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-15 16:02:20 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-15 16:02:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-15 16:02:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-15 16:02:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-15 16:02:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-15 16:02:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-15 16:02:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-15 16:02:25 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels

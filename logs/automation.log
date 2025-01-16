@@ -1,0 +1,12 @@
+2025-01-16 15:36:38 INFO  TC002_LoginTest:54 - ***** Finished TC002_LoginTest *****
+2025-01-16 16:06:34 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\OpencartV121\testng.xml"
+2025-01-16 16:06:46 INFO  TC001_AccountRegistrationTest:20 - ***** Starting TC001_AccountRegistrationTest *****
+2025-01-16 16:06:47 INFO  TC001_AccountRegistrationTest:24 - Clicked on myaccount link
+2025-01-16 16:06:49 INFO  TC001_AccountRegistrationTest:26 - Clicked on register link
+2025-01-16 16:06:49 INFO  TC001_AccountRegistrationTest:32 - Providing customer details
+2025-01-16 16:06:54 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-01-16 16:07:04 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****
+2025-01-16 16:07:04 INFO  TC002_LoginTest:25 - Clicked on myaccount link
+2025-01-16 16:07:06 INFO  TC002_LoginTest:27 - Clicked on login link
+2025-01-16 16:07:06 INFO  TC002_LoginTest:32 - Providing customer details
+2025-01-16 16:07:08 INFO  TC002_LoginTest:54 - ***** Finished TC002_LoginTest *****

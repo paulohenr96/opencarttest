@@ -1,0 +1,59 @@
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-15 08:16:04 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-15 08:16:04 INFO  TC003_LoginDDT:18 - ***** Starting TC003_LoginDDT *****
+2025-01-15 08:16:05 INFO  TC003_LoginDDT:23 - Clicked on myaccount link
+2025-01-15 08:16:06 INFO  TC003_LoginDDT:25 - Clicked on login link
+2025-01-15 08:16:06 INFO  TC003_LoginDDT:29 - Providing customer details
+2025-01-15 08:16:11 INFO  TC003_LoginDDT:65 - ***** Finished TC003_LoginDDT *****
+2025-01-15 08:16:11 INFO  TC003_LoginDDT:18 - ***** Starting TC003_LoginDDT *****
+2025-01-15 08:16:11 INFO  TC003_LoginDDT:23 - Clicked on myaccount link
+2025-01-15 08:16:12 INFO  TC003_LoginDDT:25 - Clicked on login link
+2025-01-15 08:16:12 INFO  TC003_LoginDDT:29 - Providing customer details
+2025-01-15 08:16:17 INFO  TC003_LoginDDT:18 - ***** Starting TC003_LoginDDT *****
+2025-01-15 08:16:17 INFO  TC003_LoginDDT:23 - Clicked on myaccount link
+2025-01-15 08:16:20 INFO  TC003_LoginDDT:25 - Clicked on login link
+2025-01-15 08:16:20 INFO  TC003_LoginDDT:29 - Providing customer details
+2025-01-15 08:16:31 INFO  TC003_LoginDDT:65 - ***** Finished TC003_LoginDDT *****
+2025-01-15 08:16:31 INFO  TC003_LoginDDT:18 - ***** Starting TC003_LoginDDT *****
+2025-01-15 08:16:31 INFO  TC003_LoginDDT:23 - Clicked on myaccount link
+2025-01-15 08:16:32 INFO  TC003_LoginDDT:25 - Clicked on login link
+2025-01-15 08:16:32 INFO  TC003_LoginDDT:29 - Providing customer details
+2025-01-15 08:16:43 INFO  TC003_LoginDDT:65 - ***** Finished TC003_LoginDDT *****
+2025-01-15 08:16:43 INFO  TC003_LoginDDT:18 - ***** Starting TC003_LoginDDT *****
+2025-01-15 08:16:43 INFO  TC003_LoginDDT:23 - Clicked on myaccount link
+2025-01-15 08:16:44 INFO  TC003_LoginDDT:25 - Clicked on login link
+2025-01-15 08:16:44 INFO  TC003_LoginDDT:29 - Providing customer details
+2025-01-15 08:16:47 INFO  TC003_LoginDDT:65 - ***** Finished TC003_LoginDDT *****
+2025-01-15 11:27:18 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grouping.xml"
+2025-01-15 11:27:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grouping.xml
+
+2025-01-15 11:28:26 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****
+2025-01-15 11:28:27 INFO  TC002_LoginTest:25 - Clicked on myaccount link
+2025-01-15 11:28:31 INFO  TC002_LoginTest:27 - Clicked on login link
+2025-01-15 11:28:31 INFO  TC002_LoginTest:32 - Providing customer details
+2025-01-15 11:28:36 INFO  TC002_LoginTest:52 - ***** Finished TC002_LoginTest *****
+2025-01-15 11:29:36 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grouping.xml"
+2025-01-15 11:29:37 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grouping.xml
+

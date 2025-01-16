@@ -1,0 +1,80 @@
+2025-01-15 19:45:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 19:46:31 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-15 19:46:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 19:55:12 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-15 19:55:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 20:10:02 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-15 20:10:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 20:10:43 INFO  TC001_AccountRegistrationTest:20 - ***** Starting TC001_AccountRegistrationTest *****
+2025-01-15 20:10:44 INFO  TC001_AccountRegistrationTest:24 - Clicked on myaccount link
+2025-01-15 20:10:46 INFO  TC001_AccountRegistrationTest:26 - Clicked on register link
+2025-01-15 20:10:46 INFO  TC001_AccountRegistrationTest:32 - Providing customer details
+2025-01-15 20:10:50 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-01-15 20:11:01 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****
+2025-01-15 20:11:01 INFO  TC002_LoginTest:25 - Clicked on myaccount link
+2025-01-15 20:11:02 INFO  TC002_LoginTest:27 - Clicked on login link
+2025-01-15 20:11:02 INFO  TC002_LoginTest:32 - Providing customer details
+2025-01-15 20:11:05 INFO  TC002_LoginTest:52 - ***** Finished TC002_LoginTest *****
+2025-01-15 20:11:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-15 20:11:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 22:06:24 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-15 22:06:25 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 22:35:59 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-15 22:35:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 22:47:41 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-15 22:47:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 22:51:57 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-15 22:51:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 22:54:08 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-15 22:54:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 23:17:57 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-15 23:17:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 23:24:20 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-15 23:24:20 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 23:26:25 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-15 23:26:26 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 23:35:55 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-15 23:35:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 23:37:30 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-15 23:37:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 23:40:33 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****
+2025-01-15 23:50:43 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-15 23:50:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 23:50:53 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****
+2025-01-15 23:53:40 DEBUG TestNG:82 - suiteXmlPath: "C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml"
+2025-01-15 23:53:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\seleniumwebdriver\OpencartV121\grid-docker.xml
+
+2025-01-15 23:53:48 INFO  TC002_LoginTest:21 - ***** Starting TC002_LoginTest *****

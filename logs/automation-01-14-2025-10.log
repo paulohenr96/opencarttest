@@ -1,0 +1,27 @@
+2025-01-14 23:57:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-14 23:57:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-14 23:57:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-01-14 23:57:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-14 23:57:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-14 23:57:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-14 23:57:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-01-14 23:57:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-14 23:57:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-14 23:57:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-14 23:57:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-01-14 23:57:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-01-14 23:57:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-01-14 23:57:50 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-01-14 23:57:50 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-01-14 23:57:50 INFO  TC003_LoginDDT:18 - ***** Starting TC003_LoginDDT *****
+2025-01-14 23:57:51 INFO  TC003_LoginDDT:24 - Clicked on myaccount link
+2025-01-14 23:57:52 INFO  TC003_LoginDDT:26 - Clicked on login link
+2025-01-14 23:57:52 INFO  TC003_LoginDDT:30 - Providing customer details
+2025-01-14 23:58:05 INFO  TC003_LoginDDT:18 - ***** Starting TC003_LoginDDT *****
+2025-01-14 23:58:05 INFO  TC003_LoginDDT:24 - Clicked on myaccount link
+2025-01-14 23:58:15 INFO  TC003_LoginDDT:18 - ***** Starting TC003_LoginDDT *****
+2025-01-14 23:58:15 INFO  TC003_LoginDDT:24 - Clicked on myaccount link
+2025-01-14 23:58:25 INFO  TC003_LoginDDT:18 - ***** Starting TC003_LoginDDT *****
+2025-01-14 23:58:25 INFO  TC003_LoginDDT:24 - Clicked on myaccount link
+2025-01-14 23:58:36 INFO  TC003_LoginDDT:18 - ***** Starting TC003_LoginDDT *****
+2025-01-14 23:58:36 INFO  TC003_LoginDDT:24 - Clicked on myaccount link
